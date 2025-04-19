@@ -1,0 +1,1 @@
+This repo stores various experiments I have done over time. More notebooks will be uploaded over time as I clean and organize things up
