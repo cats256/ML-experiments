@@ -1,0 +1,1 @@
+- Write custom kernel for PairwiseLayer to reduce memory usage to O(B * N)
