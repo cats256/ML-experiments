@@ -1,1 +1,1 @@
-- Write custom kernel for PairwiseLayer to reduce memory usage to O(B * N)
+- Write custom fused kernel for PairwiseLayer and Linear to reduce memory usage to O(B * N)
