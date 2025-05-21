@@ -1,2 +1,4 @@
 - Write custom fused kernel for PairwiseLayer and Linear to reduce memory usage to O(B * N)
-- Write custom fused kernel for CReLU
+- Write custom fused kernel for dense CReLU
+    - Take a look at https://github.com/gpleiss/efficient_densenet_pytorch
+    - https://arxiv.org/pdf/1707.06990
